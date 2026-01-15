@@ -8,7 +8,7 @@ The compilation of research papers that I've authored and co-authored over the y
 |---------------------|--------------------|--------------------|-----------------------|
 | [Cartesian Merkle Tree](https://arxiv.org/pdf/2504.10944) | Cryptography, Security | Preprint | Chystiakov, Artem, Oleh Komendant, Kyrylo Riabov. "Cartesian Merkle Tree." arXiv preprint arXiv:2504.10944 (2025). |
 | [ZK Multisig](./multisig/ZK_Multisig.pdf) | ZKP, Privacy | - | Chystiakov, Artem, Komendant Oleh. "ZK Multisig Proposal." |
-| [Private Multisig](./multisig/Private_Multisig.pdf) | ZKP, Privacy | - | Chystiakov, Artem, Komendant Oleh. "Private Multisig Proposal." |
+| [Private Multisig](./multisig/Private_Multisig.pdf) | ZKP, Privacy | - | Chystiakov, Artem, Komendant Oleh, Zhvanko Mariia "Private Multisig Proposal." |
 | [Wild Encryption Scheme](./multisig/Encryption.pdf) | Privacy | - | James, Bond. "Wild Encryption Scheme." |
 | [ZK Secret Santa Protocol](https://arxiv.org/pdf/2501.06515) | ZKP, Privacy | Preprint | Chystiakov, Artem, Kyrylo Riabov. "ZK Secret Santa." arXiv preprint arXiv:2501.06515 (2025). |
 | [Confidential Wrapped Ethereum](./cweth/Confidential_Wrapped_Ethereum.pdf) | Privacy, ZKP, Finance | - | Chystiakov, Artem, Zhvanko Mariia. "Confidential Wrapped Ethereum" |
